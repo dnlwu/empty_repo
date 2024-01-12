@@ -1,5 +1,5 @@
 # empty_repo
-does nothing useful
+does everything useful
 
 but really...
 
